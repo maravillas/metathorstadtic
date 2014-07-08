@@ -15,5 +15,4 @@
               :compiler {
                 :output-to "metathorstadtic.js"
                 :output-dir "out"
-                :optimizations :none
-                :source-map true}}]})
+                :optimizations :advanced}}]})

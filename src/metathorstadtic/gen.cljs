@@ -18,7 +18,7 @@
                "mullet" "bizness"
                "golf" "blubber"
                "thunder" "squid"
-               "guts"]
+               "guts" "pants"]
 
    :identifier [[:noun-word]
                 [:noun-word
@@ -46,10 +46,6 @@
    :name-prefix ["Mc"]
    :name-suffix ["son"]
    :generational ["I" "II" "III" "IV"]})
-
-(defn capitalize-tokens
-  [tokens]
-  (map capitalize tokens))
 
 (declare substitute)
 
